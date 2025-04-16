@@ -1,7 +1,0 @@
-Flask
-opencv-python
-numpy
-tensorflow
-mediapipe
-scipy
-flask_cors
